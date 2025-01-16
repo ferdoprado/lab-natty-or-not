@@ -20,22 +20,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Minha imagem
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criei uma imagem minha
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Bing da microsoft
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+dei uma breve descrição minha trabalhando
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Um imagem minha mas os olhos são azuis
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+FOI BEM FACIL USAR 
 ```
 
 ### Exemplos e Insigths
